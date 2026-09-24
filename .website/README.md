@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - party
 post: https://eliasku.win/blog/13-game/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
